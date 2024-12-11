@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABYAAAAAAAAAAAAAAAAAAAAAu7u7u7sMAAAAAACwEd3d3d3LAAAAAAAbEc3MzNzLAAAAAAAbEWxm9sbLAAAAAAAbEWzRZs/LAAAAwAAbEWxtb8/LAAAAvAAbEWxmZs/LzMzMCwAbEWxmZs/LvLvLAAAbEWxmb8/LAACwDAAbEWxmZs/LAAAAywAbEWxm9sbLAAUAAAAbEc3MzNzLAFAFAACwEd3d3d3LUAUAAAAAu7u7u7sMUFAAAAAAAAAAAAAABQUAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Robert"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAVVBVAAAAAABVUFXTDQAAAFVQVdMNAPMDAAAAMzMzMwPzAAAAMDMzM/NwdwA38zMzA3BwADczMzMDd3d3dzMzMwNwAHc3MzMz8wAAADAzMzPzAAAzMzMzA/MAANMNAAAwAABV0w1QVTUAAFUFAFBVBQAAVQUAUFUFAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Money Pig"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
